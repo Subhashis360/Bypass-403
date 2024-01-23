@@ -79,7 +79,7 @@ headers_array = [
     {"X-Path-Info": "/admin"}
 ]
 
-url = "http://66.228.53.87:8989/fetch?file=flag.txt"
+url = input("Enter Full url you want to acess : ")
 
 def header_bypass(headers):
 		status_code, response_text = make_request(url, headers)
