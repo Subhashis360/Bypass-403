@@ -16,6 +16,10 @@
 
 4. View the results, and active subdomains will be displayed.
 
+## Screenshots
+
+![Screenshot](https://github.com/Subhashis360/bypass-403/blob/main/proof.png)
+
 ### Installation
 
 ```bash
