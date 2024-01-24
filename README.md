@@ -6,7 +6,11 @@
 ✨ **Fast and Efficient:** bypass403 is a powerful tool that save your time using threads and try to bypass 403 error and compare response status
 🔎 **Multiple headers :** it use multiple advance header to bypass the http 403 or 401 error
 
-## How to Use
+## How to Use oneshot.py
+
+- It dump directly without wasteing time / one time bypass use it first if not work then use bypass-403.py
+
+## How to Use bypass-403.py
 
 1. Enter the target full domain/url in the provided input field.
 
